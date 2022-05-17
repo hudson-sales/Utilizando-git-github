@@ -1,0 +1,4 @@
+Data: 20 julho de 1969
+Fato: Primeiro voo tripulado a pausar na Lua
+Duração: 8 Dias
+Óbitas lunares: 30
