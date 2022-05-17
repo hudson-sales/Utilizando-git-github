@@ -1,1 +1,1 @@
-Utilizando as ferramentas git e github.
+Utilizando as ferramentas git e github no vs.
